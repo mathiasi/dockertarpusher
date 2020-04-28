@@ -1,3 +1,6 @@
+FORK OF https://github.com/Razikus/dockerregistrypusher !
+Credits go to original author.
+
 # What is this?
 This package contains library dockertarpusher that allows to push image packed as tar (usually from docker save command) to docker registry
 
